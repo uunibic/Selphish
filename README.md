@@ -3,6 +3,16 @@
 An automatic checker contains 3 in 1 power of DMARC Analyser, VirusTotal and UrlScan.
 This tool is made to decrease the time taken for analysing the phishing emails. We can easily do all the stuff by just automating it instead of searching manually.
 
+## Needs:
+
+* Python3 ( >= )
+* pip3
+* Bash
+
+## Installation:
+
+`pip3 install -r requirements.txt`
+
 ## Usage:
 
 `./selphish.sh [website name]`
