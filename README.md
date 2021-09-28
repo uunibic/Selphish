@@ -8,6 +8,7 @@ This tool is made to decrease the time taken for analysing the phishing emails. 
 * Python3 ( >= )
 * pip3
 * Bash
+* zip/unzip
 
 ## Installation:
 
@@ -17,16 +18,18 @@ This tool is made to decrease the time taken for analysing the phishing emails. 
 
 `./selphish.sh [website name]`
 
-*Example* => `./selphish netflix.com`
+*Example* => `./selphish.sh netflix.com`
 
 ## Permissions:
 
-To use SELPHISH, a person have to give **"chmod +x"** permissions to all of the four files.
+To use SELPHISH, a person have to give **"chmod +x"** permissions to all of the six files.
 
 1) selphish.sh
 2) scan.sh
 3) vt.sh
-4) dmarc.py
+4) vt1.sh
+5) dmarc.py
+6) email.sh
 
 ## Contact:
 
