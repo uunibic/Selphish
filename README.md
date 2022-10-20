@@ -33,6 +33,6 @@ To use SELPHISH, a person have to give **"chmod +x"** permissions to all of the 
 
 ## Contact:
 
-For assistance you can contact me via Twitter or LinkedIN.
+For assistance you can contact me via Twitter or LinkedIn.
 
 Made with :green_heart: by ACKO INFOSEC TEAM.
