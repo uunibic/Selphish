@@ -1,7 +1,6 @@
 # Selphish
 
-An automatic checker contains 3 in 1 power of DMARC Analyser, VirusTotal and UrlScan.
-This tool is made to decrease the time taken for analysing the phishing emails. We can easily do all the stuff by just automating it instead of searching manually.
+The script contains the combined capabilities of DMARC Analyzer, VirusTotal, and UrlScan to streamline the analysis of phishing emails. This tool significantly reduces the time required for analysis by automating the process, eliminating the need for manual searching and examination.
 
 ## Needs:
 
@@ -22,7 +21,7 @@ This tool is made to decrease the time taken for analysing the phishing emails. 
 
 ## Permissions:
 
-To use SELPHISH, a person have to give **"chmod +x"** permissions to all of the six files.
+To utilize the script, one must grant executable permissions to all six files.
 
 1) selphish.sh
 2) scan.sh
@@ -34,5 +33,3 @@ To use SELPHISH, a person have to give **"chmod +x"** permissions to all of the 
 ## Contact:
 
 For assistance you can contact me via Twitter or LinkedIN.
-
-Made with :green_heart: by ACKO INFOSEC TEAM.
